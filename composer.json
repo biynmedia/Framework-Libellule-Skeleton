@@ -1,6 +1,6 @@
 {
     "name": "libellule/skeleton",
-    "type": "library",
+    "type": "project",
     "description": "Framework d'Apprentissage de POO en PHP.",
     "keywords": ["framework"],
     "homepage": "https://biyn.media",
