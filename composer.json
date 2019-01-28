@@ -20,5 +20,8 @@
     "require": {},
     "require-dev": {
         "libellule/libellule": "^1.0"
+    },
+    "scripts": {
+        "start": "php -S localhost:8080 -t public"
     }
 }
