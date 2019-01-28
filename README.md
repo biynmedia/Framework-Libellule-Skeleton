@@ -17,5 +17,6 @@ Pour lancer un serveur localhost, vous pouvez utilisez ces commandes :
 	cd [nom-du-projet]
 	composer start
 
-Et c'est tout ! 
+Ouvrez votre navigateur : `http://localhost:8080`
+
 Bon développement ;-)
