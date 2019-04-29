@@ -4,6 +4,8 @@ Utilisez ce squelette pour démarrer rapidement un nouveau projet avec le Framew
 
 Ce squelette a été construit avec Composer. Son installation est simple et rapide.
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/biynmedia/Framework-Libellule-Skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/biynmedia/Framework-Libellule-Skeleton/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/biynmedia/Framework-Libellule-Skeleton/badges/build.png?b=master)](https://scrutinizer-ci.com/g/biynmedia/Framework-Libellule-Skeleton/build-status/master)
+
 ## Installation de Libellule Skeleton
 
 Lancer cette commande dans le répertoire souhaité pour votre projet
